@@ -23,6 +23,17 @@ credit-risk-classifier/
 - **Dataset:** 1000 applicants, 20 features
 
 ## Output Charts
+
+### Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](outputs/roc_curve.png)
+
+### Feature Importance
+![Feature Importance](outputs/feature_importance.png)
+
+## Output Charts
 - Confusion Matrix
 - ROC Curve (with AUC score)
 - Feature Importance Plot
