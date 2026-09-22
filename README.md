@@ -3,7 +3,6 @@
 A machine learning project that predicts whether a loan applicant is likely to default, using the German Credit Risk dataset from the UCI Machine Learning Repository.
 
 ## Project Structure
-
 credit-risk-classifier/
 ├── data/
 │ ├── raw/ # Original dataset
